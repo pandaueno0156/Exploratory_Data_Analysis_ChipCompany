@@ -5,4 +5,5 @@ This repository is for the exploratory data analysis on a chips manufacturing co
 Original data:
 
 QVI_purchase_behaviour.csv
+
 QVI_transaction_data.xlsx
