@@ -7,3 +7,7 @@ Original data:
 QVI_purchase_behaviour.csv
 
 QVI_transaction_data.xlsx
+
+Processing notebook:
+
+EDA.ipynb
